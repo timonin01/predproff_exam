@@ -17,7 +17,7 @@
 ## Установка и запуск
 
 Скопируйте себе git репозитория с помощью команды
-`git clone `
+`git clone https://github.com/timonin01/predproff_exam`
 
 Заупстите любой python-file с помощью команды
 `python <название файла>`

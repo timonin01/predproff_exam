@@ -11,6 +11,7 @@ with open('scientists.csv', encoding='utf8') as file:
 
 def sort_data(data, list):
 
+
 reader = sort
 for ScientistName, preparation, date, components in reader:
     if
